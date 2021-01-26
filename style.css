@@ -1,0 +1,111 @@
+@import url("https://fonts.googleapis.com/css2?family=Italianno&display=swap");
+
+body {
+  background-color: white;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  display: flex;
+  border: 3px solid black;
+  border-radius: 0px;
+  height: 280px;
+  width: 940px;
+  margin: 0px 0px;
+}
+
+.text {
+  color: black;
+  font-family: Italianno, Pacifico, sans-serif;
+  font-size: 160px;
+  position: absolute;
+  display: flex;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: 0px 50px;
+  }
+
+.img1 {
+  fill: blue;
+  position: absolute;
+  display: flex;
+  height: 90px;
+  width: 90px;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: 145px 425px;
+  transform: rotate(-38deg);
+}
+
+.img2 {
+  position: absolute;
+  display: flex;
+  height: 80px;
+  width: 80px;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: 145px 420px;
+  transform: rotate(280deg);
+}
+
+.img3 {
+  fill: blue;
+  position: absolute;
+  display: flex;
+  height: 98px;
+  width: 98px;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: 145px 425px;
+  transform: rotate(0deg);
+}
+
+.line_left {
+  background: black;
+  position: absolute;
+  display: flex;
+  height: 10px;
+  width: 350px;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: 190px 50px;
+  border-radius: 5px;
+}
+
+.line_right {
+  background: black;
+  position: absolute;
+  display: flex;
+  height: 10px;
+  width: 350px;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: 190px 540px;
+  border-radius: 5px;
+}
+
+/* .box {
+  border: 3px solid black;
+  border-radius: 0px;
+  height: 280px;
+  width: 940px;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: 95px 0px;
+  box-sizing: border-box;
+  } */
